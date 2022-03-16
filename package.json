@@ -1,0 +1,15 @@
+{
+  "name": "gic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install:frontend" : "cd ./gic-employee && npm i",
+    "install:backend" : "cd ./gic-drinks && npm i",
+    "frontend": "cd ./gic-employee && npm run start",
+    "backend": "cd ./gic-drinks && npm run local",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
