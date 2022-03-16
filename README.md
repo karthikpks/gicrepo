@@ -7,10 +7,10 @@ Please follow the below steps to make project live.
 go to gicrepo 
   **cd gicrepo**
 
-To install front-end task please use below run command 
+To install front-end task please use run command 
   **npm install:frontend**
 
-To install back-end task please use below run command 
+To install back-end task please use run command 
   **npm install:backend**
 
 **Running projects...**
